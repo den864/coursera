@@ -1,4 +1,4 @@
-# coursera_assignment
+# Coursera Assignment
 
 module 2 : https://den864.github.io/coursera/module-2/index.html
 
